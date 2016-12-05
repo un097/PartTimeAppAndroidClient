@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/zykj/!svn/ver/490/trunk/source/365paotui/android/PartTimeAppAndroidClient
+END
+gradlew
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/gradlew
+END
+settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/settings.gradle
+END
+PartTimeAppAndroidClient.iml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/PartTimeAppAndroidClient.iml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/.gitignore
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/local.properties
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/build.gradle
+END
+gradlew.bat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/gradlew.bat
+END
+gradle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/zykj/!svn/ver/424/trunk/source/365paotui/android/PartTimeAppAndroidClient/gradle.properties
+END

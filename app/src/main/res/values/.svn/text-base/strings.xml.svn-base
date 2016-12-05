@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PartTimeAppAndroidClient</string>
+
+    <string name="common_view_load">加载中...</string>
+</resources>
